@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Selling Shoes</string>
+
+    <string name="first_slide">Selling Shoes</string>
+    <string name="second_slide">Selling Shoes</string>
+    <string name="third_slide">Selling Shoes</string>
+
+    <string name="description">Selling Shoes</string>
+    <string name="description1">Selling Shoes</string>
+    <string name="description2">Selling Shoes</string>
 </resources>
